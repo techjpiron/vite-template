@@ -6,7 +6,6 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "prepare": "husky install",
-    "preinstall": "npx only-allow pnpm",
     "preview": "vite preview"
   },
   "dependencies": {
