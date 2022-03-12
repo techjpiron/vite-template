@@ -9,6 +9,12 @@ module.exports = {
     "plugin:react/recommended",
     "plugin:prettier/recommended",
   ],
+  globals: {
+    it: "readonly",
+    expect: "readonly",
+    describe: "readonly",
+  },
+
   parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaFeatures: {
