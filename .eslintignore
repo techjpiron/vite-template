@@ -2,3 +2,4 @@
 !.eslintrc.js
 !.lintstagedrc.js
 !.prettierrc.js
+!.netlify/
